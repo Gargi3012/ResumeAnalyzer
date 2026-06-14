@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/config.toml
+
+# IDEs
+.vscode/
+.idea/
