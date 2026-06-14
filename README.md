@@ -106,6 +106,10 @@ streamlit run frontend/app.py
 *   **URL**: `http://localhost:8501` (Opens automatically in your browser)
 
 ---
+<img width="866" height="440" alt="Screenshot 2026-06-15 002240" src="https://github.com/user-attachments/assets/653f86d9-6b98-4b90-b1d2-2311b1f897da" />
+
+<img width="584" height="413" alt="Screenshot 2026-06-15 002327" src="https://github.com/user-attachments/assets/3f860e18-ab27-44e4-aa81-593c12194228" />
+
 
 ## 💡 Developer Insights
 
