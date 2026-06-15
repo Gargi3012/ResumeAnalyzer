@@ -7,6 +7,7 @@
 
 An elegant, beginner-friendly **Agentic AI** project designed to screen and optimize resumes using an AI-powered pipeline. This application parses PDF resumes, analyzes them against a target job description using the **Google Gemini 2.5 Flash** model, and presents the insights on an interactive dashboard.
 
+LIVE LINK : https://resumeanalyzer-frontend-0ern.onrender.com
 ---
 
 ## 🌟 Key Features
