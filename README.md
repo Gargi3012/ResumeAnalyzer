@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Gemini](https://img.shields.io/badge/Gemini-2.5--Flash--Lite-orange.svg?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
 
-An elegant, beginner-friendly **Agentic AI** project designed to screen and optimize resumes using an AI-powered pipeline. This application parses PDF resumes, analyzes them against a target job description using the **Google Gemini 2.5 Flash** model, and presents the insights on an interactive dashboard.
+**Agentic AI** project designed to screen and optimize resumes using an AI-powered pipeline. This application parses PDF resumes, analyzes them against a target job description using the **Google Gemini 2.5 Flash** model, and presents the insights on an interactive dashboard.
 
 LIVE LINK : https://resumeanalyzer-frontend-0ern.onrender.com
 ---
