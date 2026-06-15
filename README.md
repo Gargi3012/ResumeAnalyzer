@@ -109,13 +109,5 @@ streamlit run frontend/app.py
 ---
 <img width="866" height="440" alt="Screenshot 2026-06-15 002240" src="https://github.com/user-attachments/assets/653f86d9-6b98-4b90-b1d2-2311b1f897da" />
 
-<img width="584" height="413" alt="Screenshot 2026-06-15 002327" src="https://github.com/user-attachments/assets/3f860e18-ab27-44e4-aa81-593c12194228" />
+<img width="584" height="413" alt="Screenshot 2026-06-15 002327" src="https://github.com/user-attachments/assets/3f860e18-ab27-44e4-aa81-
 
-
-## 💡 Developer Insights
-
-This project demonstrates several best practices for building modern LLM-powered applications:
-
-1.  **Structured AI Responses (`response_schema`)**: Instead of parsing unreliable text outputs, we use the `google-genai` SDK's structured output mode. By passing a Pydantic class (`AnalysisResult`) to the model config, the Gemini model is forced to output valid JSON matching our exact schema.
-2.  **In-Memory PDF Parsing**: Instead of saving uploaded files to disk (which causes storage leak and file-system write issues on cloud platforms), we use `io.BytesIO` along with `PyPDF2` to extract text instantly in-memory.
-3.  **Clean Separation of Concerns**: The backend handles CPU-heavy PDF parsing and LLM integration, while the frontend handles only the rendering and presentation layer.
