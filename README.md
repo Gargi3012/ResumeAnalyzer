@@ -109,5 +109,6 @@ streamlit run frontend/app.py
 ---
 <img width="866" height="440" alt="Screenshot 2026-06-15 002240" src="https://github.com/user-attachments/assets/653f86d9-6b98-4b90-b1d2-2311b1f897da" />
 
-<img width="584" height="413" alt="Screenshot 2026-06-15 002327" src="https://github.com/user-attachments/assets/3f860e18-ab27-44e4-aa81-
+<img width="579" height="419" alt="Screenshot 2026-06-15 002316" src="https://github.com/user-attachments/assets/f0f7d9f4-2a84-4ccb-9f86-26b0111d9f86" />
+
 
